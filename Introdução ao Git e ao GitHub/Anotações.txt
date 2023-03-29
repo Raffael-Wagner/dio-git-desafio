@@ -1,0 +1,15 @@
+<h1>Algumas anotações<h1>
+
+Podemos dizer que o GIT é um sistema de versionamento de código distribuído.
+
+É importante sabermos que caso você gere commits no seu repositório local com email e nickname diferentes dos utilizados no GitHub, os commits irão aparecer com email e nickname diferentes no GitHub.
+
+A diferença entre o ambiente de desenvolvimento e de servidor, é que o ambiente de desenvolvimento é local, enquanto o servidor é remoto.
+
+Caso você tente empurrar (push) o código para o GitHub e o commit não representa o estado mais atual do repositório, o git irá pedir para que você faça um pull e depois um push.
+
+O comando dir, no Windows e ls, no Linux, nos permite retornar uma lista com o conteúdo contido naquele diretório específico.
+
+O comando Git init inicializa um repositório git na pasta em questão.
+
+O comando git clone realiza um clone do repositório remoto no seu repositório local.
